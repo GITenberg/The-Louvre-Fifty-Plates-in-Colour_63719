@@ -1,0 +1,41 @@
+_repo: The-Louvre-Fifty-Plates-in-Colour_63719
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Brockwell, Maurice W.
+    alias: Brockwell, Maurice Walter
+    birthdate: 1869
+    deathdate: 1958
+    gutenberg_agent_id: '2526'
+    url: http://www.gutenberg.org/2009/agents/2526
+  - agent_name: Konody, Paul G. (Paul George)
+    alias: Konody, Paul George
+    birthdate: 1872
+    deathdate: 1933
+    gutenberg_agent_id: '39609'
+    url: http://www.gutenberg.org/2009/agents/39609
+    wikipedia: https://en.wikipedia.org/wiki/Paul_George_Konody
+  editor:
+    agent_name: Hare, T. Leman (Thomas Leman)
+    aliases:
+    - Hare, T. L. (Thomas Leman)
+    - Hare, Thomas Leman
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '41203'
+    url: http://www.gutenberg.org/2009/agents/41203
+description: ''
+gutenberg_issued: '2020-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63719'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Musée du Louvre'
+- GITenberg
+title: 'The Louvre: Fifty Plates in Colour'
+url: http://www.gutenberg.org/ebooks/63719
