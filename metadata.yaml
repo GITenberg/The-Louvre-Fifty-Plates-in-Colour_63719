@@ -1,5 +1,8 @@
 _repo: The-Louvre-Fifty-Plates-in-Colour_63719
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63719-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Brockwell, Maurice W.
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '41203'
     url: http://www.gutenberg.org/2009/agents/41203
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63719#The-Louvre-Fifty-Plates-in-Colour
 gutenberg_issued: '2020-11-13'
 gutenberg_type: Text
 identifiers:
